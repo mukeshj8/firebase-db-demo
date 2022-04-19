@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "611409308400",
+    "firebase_url": "https://mkj-project-fd589-default-rtdb.firebaseio.com",
+    "project_id": "mkj-project-fd589",
+    "storage_bucket": "mkj-project-fd589.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611409308400:android:14ab92b3affed2e76ef035",
+        "android_client_info": {
+          "package_name": "chips.gov.in.fireapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611409308400-n7cksdk580id3q2qqkghnu957bd8r8lk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzb_lcwH3ZjYbNoAaWGHS_KByDi4v6DwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611409308400-n7cksdk580id3q2qqkghnu957bd8r8lk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611409308400:android:c023e580bdc585876ef035",
+        "android_client_info": {
+          "package_name": "gov.in.cgstate.chips.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611409308400-n7cksdk580id3q2qqkghnu957bd8r8lk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzb_lcwH3ZjYbNoAaWGHS_KByDi4v6DwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611409308400-n7cksdk580id3q2qqkghnu957bd8r8lk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
